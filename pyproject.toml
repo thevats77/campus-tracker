@@ -9,7 +9,7 @@ description = "Attendance and SGPA tracker for college students, with a 75% elig
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "techvats07" }]
+authors = [{ name = "thevats77" }]
 
 [project.optional-dependencies]
 dev = ["pytest>=8", "pytest-cov>=5", "ruff>=0.6"]

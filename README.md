@@ -1,6 +1,6 @@
 # Campus Tracker
 
-[![CI](https://github.com/techvats07/campus-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/techvats07/campus-tracker/actions/workflows/ci.yml)
+[![CI](https://github.com/thevats77/campus-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/thevats77/campus-tracker/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%20|%203.11%20|%203.12%20|%203.13-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -34,7 +34,7 @@ SGPA: 8.44
 ## Getting started
 
 ```bash
-git clone https://github.com/techvats07/campus-tracker.git
+git clone https://github.com/thevats77/campus-tracker.git
 cd campus-tracker
 pip install -e ".[dev]"
 campus-tracker data/semester.csv
